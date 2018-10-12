@@ -1,4 +1,5 @@
 # BeSafe
+The motive is to spread awareness regarding in disaster measures in an interactive manner so that the user prepares well in advance for the crucial moments decisive in his life and death, where before anyone else he could prove to be a rescuer to himself. When the unfortunate situation presents itself the app presents the user with some life saving tools in sequential manner which maintains his connectivity to the outside world ensuring his safety.
 
 The idea revolves around three central features : The Assistant, V-Scale(Vulnerability scale) & Q-Bot(Query/Questionnaire bot)
 
@@ -11,8 +12,8 @@ Assist Mode: This mode comes into action as soon as the user presses the button 
 
 V-Map : The V-Map will be a real time map formed by plotting a vulnerability score of all the regions. The score of a particular area which ranges from 1-10 shows the proneness of a region to disasters and itwill be calculated using the weather forecast and historical data. This data can be fetched using [openweathermap API](https://openweathermap.org/api). Further this feature can be expanded by including the infrastructure data which can be filled by the users. This data can be helpful for both floods and earthquakes and once the vulnerability score of a region reaches a threshold all the users within the area will be notified of an incoming calamity.
 
-Qbot: Query/Questionaire mode is the part of our app where we will access the database placed on Azure for the help of the user at various occassions.
+Qbot: Query/Questionaire mode is the part of the app where we will access the database consisting of life hacks hosted on Azure for the help of the user.
 
-Pre Disaster: The app will ask our users some interesting questions from time to time (frequency of which can be controlled by our users themselves) related to disaster management which will help spread awareness and make our users well-prepared for any kind of disasters. In fact, they will be given a rating based on their preparation levels. The rating can be from 1 to 10, and can be categorised for different types of disasters. This rating will be improved as our users use more of our app to learn more about different difficult situations and maintain their toolbox better.
+Pre Disaster: The app will present users with some interesting scenarios as questions from time to time related to disaster management which will help spread awareness and make our users well-prepared for any kind of disasters. In fact, they will be given a rating based on their preparation levels. The rating can be from 1 to 10, and can be categorised for different types of disasters. This rating will be improved as our users use more of our app to learn more about different difficult situations and maintain their toolbox better.
 
 During a disaster: This mode will become Questionare mode during the disaster, where all our users can access th FAQs and data in an organised and user-friendly manner. 
