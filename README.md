@@ -14,6 +14,6 @@ V-Map : The V-Map will be a real time map formed by plotting a vulnerability sco
 
 Qbot: Query/Questionaire mode is the part of the app where we will access the database consisting of life hacks hosted on Azure for the help of the user.
 
-Pre Disaster: The app will present users with some interesting scenarios as questions from time to time related to disaster management which will help spread awareness and make our users well-prepared for any kind of disasters. In fact, they will be given a rating based on their preparation levels. The rating can be from 1 to 10, and can be categorised for different types of disasters. This rating will be improved as our users use more of our app to learn more about different difficult situations and maintain their toolbox better.
+Pre Disaster: The app will present users with some interesting scenarios as questions from time to time related to disaster management which will help spread awareness and make users well-prepared for any kind of disasters. There will be a rating from 1 to 10 based on their preparation levels to tackle a disaster situation. This rating will improve as the user resolves the scenario questions posed and most importantly this provides users with options to set actions or suggestions that the assistant automatically takes care of in Disaster mode. 
 
 During a disaster: This mode will become Questionare mode during the disaster, where all our users can access th FAQs and data in an organised and user-friendly manner. 
